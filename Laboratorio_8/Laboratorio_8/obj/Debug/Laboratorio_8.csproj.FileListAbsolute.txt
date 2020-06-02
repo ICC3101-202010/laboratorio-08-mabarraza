@@ -1,0 +1,11 @@
+C:\Users\visita\Source\Repos\Laboratorio_8\Laboratorio_8\bin\Debug\Laboratorio_8.exe.config
+C:\Users\visita\Source\Repos\Laboratorio_8\Laboratorio_8\bin\Debug\Laboratorio_8.exe
+C:\Users\visita\Source\Repos\Laboratorio_8\Laboratorio_8\bin\Debug\Laboratorio_8.pdb
+C:\Users\visita\Source\Repos\Laboratorio_8\Laboratorio_8\obj\Debug\Laboratorio_8.csprojAssemblyReference.cache
+C:\Users\visita\Source\Repos\Laboratorio_8\Laboratorio_8\obj\Debug\Laboratorio_8.Form1.resources
+C:\Users\visita\Source\Repos\Laboratorio_8\Laboratorio_8\obj\Debug\Laboratorio_8.Form2.resources
+C:\Users\visita\Source\Repos\Laboratorio_8\Laboratorio_8\obj\Debug\Laboratorio_8.Properties.Resources.resources
+C:\Users\visita\Source\Repos\Laboratorio_8\Laboratorio_8\obj\Debug\Laboratorio_8.csproj.GenerateResource.cache
+C:\Users\visita\Source\Repos\Laboratorio_8\Laboratorio_8\obj\Debug\Laboratorio_8.csproj.CoreCompileInputs.cache
+C:\Users\visita\Source\Repos\Laboratorio_8\Laboratorio_8\obj\Debug\Laboratorio_8.exe
+C:\Users\visita\Source\Repos\Laboratorio_8\Laboratorio_8\obj\Debug\Laboratorio_8.pdb
